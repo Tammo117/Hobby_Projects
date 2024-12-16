@@ -1,6 +1,6 @@
 This Repository contrains a few projects performed to grapple with the basics of CFD and deep learning
 
-1) K-Epsilon -- Built the K-Epsilon turbulence modedl from scratcht to model fluid flow in a 1D channel
+1) K-Epsilon -- Built the K-Epsilon turbulence model from scratch to model fluid flow in a 1D channel
 2) MNSIT from scratch --  here I built a Neural Network from scratch using Numpy and tasked it with classfying the MNSIT dataset
 3) MNSIT with pytorch -- MNSIT classification but then using Pytorch framework
 4) CIFAR10 with Convnet -- classified the cifar images with a VGG inspired convolutional neural network
