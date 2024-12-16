@@ -1,6 +1,5 @@
-This Repository contrains a few projects performed to grapple with the basics of deep learning
+This Repository contrains a few projects performed to grapple with the basics of CFD and deep learning
 
-There are 4 projects:
 1) MNSIT from scratch --  here I built a Neural Network from scratch using Numpy and tasked it with classfying the MNSIT dataset
 2) MNSIT with pytorch -- MNSIT classification but then using Pytorch framework
 3) CIFAR10 with Convnet -- classified the cifar images with a VGG inspired convolutional neural network
